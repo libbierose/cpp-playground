@@ -1,0 +1,87 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+[xX]64/
+[xX]86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]*/
+ipch/
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.pch
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.appx
+*.appxsym
+*.appcontainer
+
+# VS build databases
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+
+# VS Code
+.vscode/
+
+# CMake
+[Cc]MakeFiles/
+[Cc]MakeCache.txt
+cmake-build*/
+build*/
+CMakeSettings.json
+
+# NuGet
+*.nupkg
+packages/
+**/[Pp]ackages/*
+
+# Logs
+*.log
+
+# Others
+*.tmp
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf
+*.cachefile
+*.db
+*.mdb
+*.ipdb
+*.iobj
+*.rsp
+*.d
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Optional: test/coverage
+[TestR]esult*/
+[Ll]ogs/
+*.coverage
+*.coveragexml
+
+# Local tools
+.env
+.env.*
